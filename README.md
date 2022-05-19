@@ -1,5 +1,5 @@
 - Hi, I’m @mrtnbm
-- I’m interested in front-end development and software engineering
+- I’m interested in software engineering, especially the development operations (DevOps) involved.
 - I like to write (dirty) scripts in Python
 
 <!---
